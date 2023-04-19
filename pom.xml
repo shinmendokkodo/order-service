@@ -14,13 +14,6 @@
     <name>order-service</name>
     <description>Order Service</description>
 
-    <licenses>
-        <license>
-            <name>GNU General Public License v3.0</name>
-            <url>https://www.gnu.org/licenses/gpl.txt</url>
-        </license>
-    </licenses>
-
     <organization>
         <name>Algorithmique</name>
     </organization>
